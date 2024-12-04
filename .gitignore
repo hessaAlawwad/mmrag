@@ -150,5 +150,10 @@ dmypy.json
 .venv/
 .venv
 README.md
-./ImageBind/*
+.ImageBind/*
+./ImageBind
 *.csv
+data/*
+./tqa_train_val_test/*
+./tqa_train_val_test/test/*
+./tqa_train_val_test/val/*
