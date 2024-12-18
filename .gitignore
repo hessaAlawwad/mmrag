@@ -155,5 +155,6 @@ README.md
 *.csv
 data/*
 ./tqa_train_val_test/*
-./tqa_train_val_test/test/*
-./tqa_train_val_test/val/*
+./ImageBind/*
+./tqa_train_val_test/*
+
